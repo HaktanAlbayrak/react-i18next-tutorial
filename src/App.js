@@ -15,7 +15,7 @@ function App() {
           Türkçe
         </button>
         <button onClick={() => clickHandle('en')}>English</button>
-      </nav>{' '}
+      </nav>
       <br />
       <h3>{t('welcome')}</h3>
     </div>
